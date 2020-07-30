@@ -28,4 +28,4 @@ Poi compilare col comando:
 
 **Su Windows:**
 
-Aprire il file in un IDE e compilarlo oppure installare [MSYS2 MinGW](https://www.msys2.org) e compilarlo da li.
+Aprire il file in un IDE (come Visual Studio) e compilarlo oppure installare [MSYS2 MinGW](https://www.msys2.org) e compilarlo da li.
