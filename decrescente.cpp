@@ -1,4 +1,4 @@
-/*Programma che, definiti 3 numeri, li mette in ordine decrescente
+/ * Programma che, definiti 3 numeri, li mette in ordine decrescente
 Progetto Open Source, siete liberi di ripubblicarlo con modifiche/miglioramenti
 Scritto con piacere da Motion :D */
 #include <iostream>;
